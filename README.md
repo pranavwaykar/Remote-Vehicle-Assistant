@@ -13,6 +13,10 @@ Remote Vehicle Assistant (RVA) is an Android app that empowers users facing vehi
 * **Real-time analytical features:** Track the progress of your vehicle repair in real time, so you know exactly when to expect your car to be back on the road.
 * **Distance based invoice generation:** Receive transparent and distance-based invoices for all repairs, so you can be sure you're getting the best possible value.
 
+**Screenshots**
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/b35a54a3-a860-48bd-b2a5-9454e05dd049" />
+
+
 **Benefits**
 
 * **Peace of mind:** RVA gives you the peace of mind knowing that you're just a tap away from getting help in the event of a vehicle breakdown.
